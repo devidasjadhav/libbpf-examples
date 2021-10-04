@@ -1,3 +1,6 @@
 [submodule "ebpf"]
 	path = ebpf
 	url = https://github.com/cilium/ebpf
+[submodule "libbpf-rs"]
+	path = libbpf-rs
+	url = https://github.com/libbpf/libbpf-rs
