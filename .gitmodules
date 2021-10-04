@@ -4,3 +4,6 @@
 [submodule "libbpf-rs"]
 	path = libbpf-rs
 	url = https://github.com/libbpf/libbpf-rs
+[submodule "libbpf"]
+	path = libbpf
+	url = https://github.com/libbpf/libbpf
